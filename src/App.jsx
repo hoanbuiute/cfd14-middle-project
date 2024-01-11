@@ -4,7 +4,7 @@ import PATHS from "./constants/paths";
 import "./App.css";
 import PageLoading from "./components/PageLoanding";
 import DemoRedux from "./pages/DemoRedux";
-import NotFoundPage from "./pages/NotfoundPage";
+import NotFoundPage from "./pages/NotFoundPage";
 
 // import MainLayout from "./layouts/MainLayout";
 // import Homepage from "./pages/Homepage";
